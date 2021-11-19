@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+@import "scss/abstract/variables",
+        "scss/abstract/mixins",
+        "scss/components/navbar",
+        "scss/components/button.scss",
+        "scss/layout/header",
+        "scss/layout/content-home",
+        "scss/layout/content-projet",
+        "scss/layout/content-competences",
+        "scss/layout/content-pres-projet",
+        "scss/layout/footer";
+
